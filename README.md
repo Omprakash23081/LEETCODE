@@ -9,3 +9,15 @@ Sum of first n even numbers (1 to n)
 2+4+6+⋯+2n=n(n+1)
 Sum of even numbers between two numbers a and 𝑏 (inclusive)
 Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
+<!---LeetCode Topics End-->
