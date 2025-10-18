@@ -57,4 +57,12 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Omprakash23081/LEETCODE/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Omprakash23081/LEETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
