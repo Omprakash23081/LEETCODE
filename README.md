@@ -16,6 +16,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
+| [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,11 +27,13 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
@@ -47,6 +50,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
 ## Math
 |  |
@@ -87,4 +91,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
