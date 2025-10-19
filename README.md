@@ -72,9 +72,19 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
