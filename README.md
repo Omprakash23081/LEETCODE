@@ -108,6 +108,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
+| [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
 |  |
 | ------- |
