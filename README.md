@@ -56,6 +56,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
@@ -76,6 +77,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0001-two-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -116,6 +118,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0002-add-two-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0033-search-in-rotated-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Omprakash23081/LEETCODE/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Interactive
@@ -235,6 +239,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0075-sort-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -293,4 +298,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Omprakash23081/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
