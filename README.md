@@ -17,6 +17,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
 ## Math
 |  |
