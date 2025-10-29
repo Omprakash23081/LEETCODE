@@ -29,6 +29,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0011-container-with-most-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0001-two-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -84,6 +86,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -92,6 +95,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
 ## Design
@@ -208,6 +212,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omprakash23081/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
