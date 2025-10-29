@@ -33,6 +33,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -132,6 +134,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -157,11 +160,13 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
