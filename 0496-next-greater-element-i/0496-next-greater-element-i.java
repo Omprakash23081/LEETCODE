@@ -1,31 +1,23 @@
+import java.util.*;
+
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Stack<Integer> st = new Stack<>();
-        Map<Integer , Integer> map = new HashMap<>();
-        for(int i=0 ;i<nums1.length ;i++){
-            map.put(nums1[i] , i);
-        }
+        Map<Integer, Integer> map = new HashMap<>(); 
+        Stack<Integer> stack = new Stack<>();
+        for (int i = nums2.length - 1; i >= 0; i--) {
+            int num = nums2[i];
 
-        for(int i= nums2.length-1 ; i>=0 ; i--){
-            if(map.containsKey(nums2[i])){ 
-                int idx = map.get(nums2[i]);
-                if(st.isEmpty()){
-                    nums1[idx] = -1;
-                }
-                else if(st.peek()>nums2[i]){ 
-                    nums1[idx] = st.peek();
-                } else{
-                    while(!st.isEmpty() && st.peek()<nums2[i]) st.pop();
-                     if(st.isEmpty()){
-                        nums1[idx] = -1;
-                     }else{
-                        nums1[idx] = st.peek();
-                     }
-                }
+            while (!stack.isEmpty() && stack.peek() <= num) {
+                stack.pop();
             }
-            while(!st.isEmpty() && st.peek()<nums2[i]) st.pop();
-            st.push(nums2[i]);
+            map.put(num, stack.isEmpty() ? -1 : stack.peek());
+            stack.push(num);
         }
-        return nums1;
+        int[] result = new int[nums1.length];
+        for (int i = 0; i < nums1.length; i++) {
+            result[i] = map.get(nums1[i]);
+        }
+        result[0] = result[0]*10 /10;
+        return result;
     }
 }
