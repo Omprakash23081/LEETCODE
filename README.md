@@ -149,6 +149,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -161,6 +162,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -172,6 +174,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
