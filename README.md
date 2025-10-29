@@ -30,6 +30,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
+| [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -122,6 +123,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 ## Rolling Hash
 |  |
 | ------- |
