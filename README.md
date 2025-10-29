@@ -23,6 +23,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -46,6 +48,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
@@ -86,6 +89,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Omprakash23081/LEETCODE/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Interactive
 |  |
 | ------- |
@@ -148,4 +152,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
