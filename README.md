@@ -76,6 +76,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
@@ -88,6 +89,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
@@ -226,4 +228,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
