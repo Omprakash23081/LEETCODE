@@ -47,6 +47,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -75,6 +76,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
@@ -123,6 +125,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Data Stream
