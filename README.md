@@ -49,6 +49,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0020-valid-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -220,4 +222,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0002-add-two-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Omprakash23081/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
