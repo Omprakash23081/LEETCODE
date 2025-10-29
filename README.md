@@ -20,11 +20,13 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
