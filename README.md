@@ -36,6 +36,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
