@@ -88,6 +88,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -139,18 +140,21 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
