@@ -33,6 +33,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -131,6 +132,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 ## Rolling Hash
 |  |
