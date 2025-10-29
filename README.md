@@ -22,6 +22,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Omprakash23081/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Array
@@ -129,6 +130,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Omprakash23081/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
