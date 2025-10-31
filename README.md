@@ -61,6 +61,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -134,6 +135,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0002-add-two-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -352,4 +354,12 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
