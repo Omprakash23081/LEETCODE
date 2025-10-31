@@ -51,6 +51,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omprakash23081/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -330,6 +331,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
@@ -342,4 +344,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
