@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(nums);
         int res =0 , n= nums.length;
         for(int i =0 ; i<n - 1 ; i+=2){
-            res += Math.min(nums[i] , nums[i+1]);
+            res += nums[i];
         }
         return res;
     }
