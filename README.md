@@ -47,6 +47,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Omprakash23081/LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -366,6 +367,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Omprakash23081/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
 ## Enumeration
 |  |
