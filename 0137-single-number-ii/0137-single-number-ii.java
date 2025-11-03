@@ -1,15 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ans = 0;
-        for (int i = 0; i < 32; i++) {
-            int count = 0;
-            for (int j = 0; j < nums.length; j++) {
-                if ((nums[j] & (1 << i)) != 0) count++;
-            }
-            if (count % 3 == 1) {
-                ans |= (1 << i);
-            }
+        int one = 0 , two = 0;
+        for (int i = 0; i < nums.length; i++) {
+           one = (one ^ nums[i]) & ~two;
+           two = (two ^ nums[i]) & ~one;
         }
-        return ans;
+        return one;
     }
 }
