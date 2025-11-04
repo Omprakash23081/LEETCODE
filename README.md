@@ -83,6 +83,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Omprakash23081/LEETCODE/tree/master/0860-design-circular-queue) |
+| [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Omprakash23081/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
@@ -281,6 +282,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Omprakash23081/LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Omprakash23081/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
