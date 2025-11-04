@@ -1,24 +1,15 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        Integer dp[] = new Integer[amount + 1]; // dp by amount
-        return dfs(coins, dp, amount);
-    }
+        int[] dp = new int[amount + 1];
+        Arrays.fill(dp, amount + 1); // Initialize with a value > amount
+        dp[0] = 0;
 
-    private int dfs(int[] coins, Integer[] dp, int amount) {
-        if (amount == 0) return 0;
-        if (dp[amount] != null) return dp[amount];
-
-        int min = Integer.MAX_VALUE;
         for (int coin : coins) {
-            if (amount - coin >= 0) {
-                int res = dfs(coins, dp, amount - coin);
-                if (res != -1) {
-                    min = Math.min(min, 1 + res);
-                }
+            for (int i = coin; i <= amount; i++) {
+                dp[i] = Math.min(dp[i], dp[i - coin] + 1);
             }
         }
 
-        dp[amount] = (min == Integer.MAX_VALUE) ? -1 : min;
-        return dp[amount];
+        return dp[amount] > amount ? -1 : dp[amount];
     }
 }
