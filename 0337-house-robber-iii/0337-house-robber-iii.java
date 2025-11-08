@@ -1,28 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    Map<TreeNode, int[]> dp = new HashMap<>();
+    // Map<Integer
+    private int[]  solve(TreeNode root){
+        if(root==null) return new int[2];
 
-    private int solve(TreeNode root, boolean canRob) {
-        if (root == null) return 0;
+        int left[] = solve(root.left);
+        int right[] = solve(root.right);
 
-        if (!dp.containsKey(root)) dp.put(root, new int[2]);
-        int[] val = dp.get(root);
+        int res[] = new int[2];
 
-        if (canRob && val[1] != 0) return val[1];
-        if (!canRob && val[0] != 0) return val[0];
+        res[0] = root.val + left[1] + right[1];
+        res[1] = Math.max(left[0] , left[1]) + Math.max(right[0] , right[1]);
 
-        if (canRob) {
-            int rob = root.val + solve(root.left, false) + solve(root.right, false);
-            val[1] = rob;
-            return rob;
-        } else {
-            int notRob = Math.max(solve(root.left, true), solve(root.left, false)) +
-                         Math.max(solve(root.right, true), solve(root.right, false));
-            val[0] = notRob;
-            return notRob;
-        }
+        return res; 
     }
 
     public int rob(TreeNode root) {
-        return Math.max(solve(root, true), solve(root, false));
+        int res[] = solve(root);
+        return Math.max(res[0] , res[1]);
     }
 }
