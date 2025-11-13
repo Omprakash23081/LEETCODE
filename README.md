@@ -157,6 +157,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Omprakash23081/LEETCODE/tree/master/0372-super-pow) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 ## Matrix
 |  |
@@ -335,6 +336,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0322-coin-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Heap (Priority Queue)
 |  |
@@ -367,6 +369,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0021-merge-two-sorted-lists](https://github.com/Omprakash23081/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -446,4 +449,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Omprakash23081/LEETCODE/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Omprakash23081/LEETCODE/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Omprakash23081/LEETCODE/tree/master/2087-confirmation-rate) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
