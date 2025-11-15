@@ -153,6 +153,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0002-add-two-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Omprakash23081/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
@@ -334,6 +335,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0022-generate-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Omprakash23081/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omprakash23081/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -461,4 +463,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0070-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Omprakash23081/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
