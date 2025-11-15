@@ -270,6 +270,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0242-valid-anagram](https://github.com/Omprakash23081/LEETCODE/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
 |  |
@@ -345,6 +346,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Heap (Priority Queue)
 |  |
