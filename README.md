@@ -80,6 +80,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Omprakash23081/LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Omprakash23081/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
@@ -303,6 +304,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Omprakash23081/LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Omprakash23081/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -346,6 +348,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0322-coin-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Omprakash23081/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
