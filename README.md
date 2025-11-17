@@ -246,6 +246,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -460,6 +462,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Database
 |  |
 | ------- |
