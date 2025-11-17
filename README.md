@@ -469,6 +469,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Omprakash23081/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Omprakash23081/LEETCODE/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Omprakash23081/LEETCODE/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/Omprakash23081/LEETCODE/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Omprakash23081/LEETCODE/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Omprakash23081/LEETCODE/tree/master/1801-average-time-of-process-per-machine) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Omprakash23081/LEETCODE/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
