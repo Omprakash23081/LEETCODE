@@ -477,6 +477,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0620-not-boring-movies](https://github.com/Omprakash23081/LEETCODE/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/Omprakash23081/LEETCODE/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Omprakash23081/LEETCODE/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Omprakash23081/LEETCODE/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Omprakash23081/LEETCODE/tree/master/1338-queries-quality-and-percentage) |
