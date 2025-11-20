@@ -118,6 +118,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -149,6 +150,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0838-design-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Omprakash23081/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -491,4 +494,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Omprakash23081/LEETCODE/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
