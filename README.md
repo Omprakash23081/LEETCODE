@@ -118,6 +118,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -279,6 +280,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
 |  |
@@ -293,6 +295,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -432,6 +435,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sliding Window
 |  |
