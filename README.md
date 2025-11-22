@@ -40,6 +40,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -194,6 +196,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Omprakash23081/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/Omprakash23081/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -339,6 +342,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0759-set-intersection-size-at-least-two](https://github.com/Omprakash23081/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
