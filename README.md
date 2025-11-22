@@ -192,11 +192,13 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0278-first-bad-version](https://github.com/Omprakash23081/LEETCODE/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Omprakash23081/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/Omprakash23081/LEETCODE/tree/master/0907-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Omprakash23081/LEETCODE/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Omprakash23081/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
