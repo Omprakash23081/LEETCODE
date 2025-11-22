@@ -95,6 +95,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -168,6 +169,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
