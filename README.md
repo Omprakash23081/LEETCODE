@@ -92,6 +92,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Omprakash23081/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -324,6 +325,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0759-set-intersection-size-at-least-two](https://github.com/Omprakash23081/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
@@ -342,6 +344,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0759-set-intersection-size-at-least-two](https://github.com/Omprakash23081/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
@@ -372,6 +375,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0806-domino-and-tromino-tiling](https://github.com/Omprakash23081/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Heap (Priority Queue)
 |  |
