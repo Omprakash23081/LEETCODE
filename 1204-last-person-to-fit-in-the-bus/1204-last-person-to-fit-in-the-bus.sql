@@ -4,11 +4,11 @@
 --     SELECT * FROM Queue ORDER BY turn ASC
 -- ) OP
 
-SELECT A.person_name
-FROM Queue A 
-INNER JOIN Queue B
-ON A.turn >= B.turn
-GROUP BY A.turn 
-HAVING SUM(B.weight) <= 1000
-ORDER BY SUM(B.weight) DESC
+SELECT a.person_name
+FROM Queue a
+JOIN Queue b
+ON a.turn >= b.turn
+GROUP BY a.turn, a.person_name
+HAVING SUM(b.weight) <= 1000
+ORDER BY a.turn DESC
 LIMIT 1;
