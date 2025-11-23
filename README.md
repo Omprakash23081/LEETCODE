@@ -510,6 +510,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1801-average-time-of-process-per-machine](https://github.com/Omprakash23081/LEETCODE/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/Omprakash23081/LEETCODE/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Omprakash23081/LEETCODE/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1907-count-salary-categories](https://github.com/Omprakash23081/LEETCODE/tree/master/1907-count-salary-categories) |
 | [1942-primary-department-for-each-employee](https://github.com/Omprakash23081/LEETCODE/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Omprakash23081/LEETCODE/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Omprakash23081/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
