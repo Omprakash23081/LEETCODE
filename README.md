@@ -100,6 +100,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Omprakash23081/LEETCODE/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
@@ -188,6 +189,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Data Stream
 |  |
@@ -390,6 +392,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Heap (Priority Queue)
 |  |
