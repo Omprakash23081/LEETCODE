@@ -108,6 +108,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Rolling Hash
 |  |
 | ------- |
