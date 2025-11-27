@@ -87,6 +87,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Omprakash23081/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Omprakash23081/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
@@ -148,6 +149,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Omprakash23081/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -155,6 +157,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Omprakash23081/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Omprakash23081/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
 ## Design
