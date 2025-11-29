@@ -111,6 +111,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
