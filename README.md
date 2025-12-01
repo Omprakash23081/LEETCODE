@@ -40,6 +40,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Omprakash23081/LEETCODE/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Array
@@ -311,6 +312,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
