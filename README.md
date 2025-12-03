@@ -99,6 +99,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Omprakash23081/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -219,6 +220,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Omprakash23081/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/Omprakash23081/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -315,6 +317,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
@@ -375,6 +378,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -415,6 +419,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Omprakash23081/LEETCODE/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
@@ -576,4 +581,5 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
