@@ -156,6 +156,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0739-daily-temperatures](https://github.com/Omprakash23081/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
+| [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +321,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
 |  |
@@ -453,6 +455,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
+| [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Omprakash23081/LEETCODE/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Queue
 |  |
