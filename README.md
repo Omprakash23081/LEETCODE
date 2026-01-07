@@ -200,6 +200,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Omprakash23081/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Omprakash23081/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -330,6 +331,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
+| [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
@@ -536,6 +538,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
+| [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
 ## Graph
 |  |
 | ------- |
