@@ -576,6 +576,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1278-product-price-at-a-given-date](https://github.com/Omprakash23081/LEETCODE/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Omprakash23081/LEETCODE/tree/master/1317-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/Omprakash23081/LEETCODE/tree/master/1321-restaurant-growth) |
 | [1338-queries-quality-and-percentage](https://github.com/Omprakash23081/LEETCODE/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/Omprakash23081/LEETCODE/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Omprakash23081/LEETCODE/tree/master/1390-average-selling-price) |
