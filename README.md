@@ -106,6 +106,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -383,6 +384,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -404,6 +406,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -466,6 +469,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0561-array-partition](https://github.com/Omprakash23081/LEETCODE/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 ## Recursion
 |  |
 | ------- |
