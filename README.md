@@ -265,6 +265,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0404-sum-of-left-leaves](https://github.com/Omprakash23081/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -284,6 +285,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0404-sum-of-left-leaves](https://github.com/Omprakash23081/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -306,6 +308,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Search Tree
