@@ -115,6 +115,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2462-total-cost-to-hire-k-workers](https://github.com/Omprakash23081/LEETCODE/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3033-modify-the-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -415,6 +416,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -555,6 +557,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |
