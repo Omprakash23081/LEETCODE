@@ -125,6 +125,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Omprakash23081/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Omprakash23081/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -418,6 +419,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Omprakash23081/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -537,6 +539,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omprakash23081/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Omprakash23081/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Quickselect
 |  |
 | ------- |
