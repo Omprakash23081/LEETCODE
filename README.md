@@ -105,6 +105,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Omprakash23081/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
@@ -228,6 +229,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
@@ -320,6 +322,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Search Tree
@@ -532,6 +535,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Bit Manipulation
 |  |
@@ -650,4 +654,5 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
