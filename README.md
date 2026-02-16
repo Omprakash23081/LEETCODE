@@ -318,6 +318,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0404-sum-of-left-leaves](https://github.com/Omprakash23081/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
@@ -531,6 +532,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0404-sum-of-left-leaves](https://github.com/Omprakash23081/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
@@ -654,5 +656,10 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
