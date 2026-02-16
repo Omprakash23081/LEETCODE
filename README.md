@@ -40,6 +40,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -151,6 +152,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
+| [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -357,6 +359,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0399-evaluate-division](https://github.com/Omprakash23081/LEETCODE/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -403,6 +406,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0605-can-place-flowers](https://github.com/Omprakash23081/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Omprakash23081/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
