@@ -328,6 +328,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -543,6 +544,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -666,4 +668,9 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
