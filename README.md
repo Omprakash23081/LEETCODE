@@ -557,6 +557,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Omprakash23081/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
