@@ -85,6 +85,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0322-coin-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Omprakash23081/LEETCODE/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -150,6 +151,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -196,6 +198,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0155-min-stack](https://github.com/Omprakash23081/LEETCODE/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Omprakash23081/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Omprakash23081/LEETCODE/tree/master/0860-design-circular-queue) |
@@ -214,6 +217,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Omprakash23081/LEETCODE/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/Omprakash23081/LEETCODE/tree/master/0372-super-pow) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -687,4 +691,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
