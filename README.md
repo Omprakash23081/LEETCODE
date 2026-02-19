@@ -40,6 +40,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Omprakash23081/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/Omprakash23081/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
@@ -364,6 +365,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0399-evaluate-division](https://github.com/Omprakash23081/LEETCODE/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/Omprakash23081/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
