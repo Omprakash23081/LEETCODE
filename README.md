@@ -113,6 +113,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Omprakash23081/LEETCODE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Omprakash23081/LEETCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -157,6 +158,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
+| [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
@@ -197,6 +199,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0838-design-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Omprakash23081/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Omprakash23081/LEETCODE/tree/master/0937-online-stock-span) |
+| [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
 |  |
@@ -518,6 +521,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
+| [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Omprakash23081/LEETCODE/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Queue
