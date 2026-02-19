@@ -218,6 +218,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Omprakash23081/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Omprakash23081/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -471,6 +472,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Omprakash23081/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -511,6 +513,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0206-reverse-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -560,6 +563,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0693-binary-number-with-alternating-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Omprakash23081/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -643,6 +647,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0070-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Combinatorics
 |  |
 | ------- |
