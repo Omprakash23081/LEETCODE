@@ -6,8 +6,6 @@ class Solution {
 
         int res = 0;
 
-        System.out.println(map);
-
         for(int i =0 ; i<s.length()-1 ; i++){
             if(s.charAt(i)=='I'){
                 if(s.charAt(i+1)=='V'){
