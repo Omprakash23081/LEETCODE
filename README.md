@@ -365,6 +365,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0013-roman-to-integer](https://github.com/Omprakash23081/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Omprakash23081/LEETCODE/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Omprakash23081/LEETCODE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Omprakash23081/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/0205-isomorphic-strings) |
