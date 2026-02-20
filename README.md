@@ -375,6 +375,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0399-evaluate-division](https://github.com/Omprakash23081/LEETCODE/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Omprakash23081/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Omprakash23081/LEETCODE/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -446,6 +447,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Omprakash23081/LEETCODE/tree/master/0561-array-partition) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Omprakash23081/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -463,6 +465,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Omprakash23081/LEETCODE/tree/master/0372-super-pow) |
+| [0761-special-binary-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
