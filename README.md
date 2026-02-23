@@ -165,6 +165,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -353,6 +354,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## Union Find
@@ -386,6 +388,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Omprakash23081/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash23081/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -413,6 +416,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Rolling Hash
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## String Matching
@@ -589,6 +593,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/Omprakash23081/LEETCODE/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Omprakash23081/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
