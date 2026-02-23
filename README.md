@@ -495,6 +495,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Omprakash23081/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Omprakash23081/LEETCODE/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Heap (Priority Queue)
