@@ -493,6 +493,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Omprakash23081/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Omprakash23081/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/1931-painting-a-grid-with-three-different-colors) |
