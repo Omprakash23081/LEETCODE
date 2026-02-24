@@ -299,6 +299,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -319,6 +320,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0543-diameter-of-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omprakash23081/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -345,6 +347,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
