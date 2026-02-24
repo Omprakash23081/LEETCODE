@@ -62,6 +62,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Omprakash23081/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/0075-sort-colors) |
@@ -242,6 +243,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0037-sudoku-solver](https://github.com/Omprakash23081/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Omprakash23081/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -544,6 +546,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Omprakash23081/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
