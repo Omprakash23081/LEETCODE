@@ -343,6 +343,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Omprakash23081/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -578,6 +579,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0547-number-of-provinces](https://github.com/Omprakash23081/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Omprakash23081/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Omprakash23081/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Omprakash23081/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -715,10 +717,12 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Omprakash23081/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Omprakash23081/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 ## Randomized
 |  |
