@@ -1,36 +1,26 @@
 class Solution {
+    int col[];
     public boolean isBipartite(int[][] graph) {
-
         int n = graph.length;
-        int[] color = new int[n];
-        Arrays.fill(color, -1);
-
-        for(int i = 0; i < n; i++){
-
-            if(color[i] == -1){
-
-                Queue<Integer> q = new LinkedList<>();
-                q.add(i);
-                color[i] = 0;
-
-                while(!q.isEmpty()){
-
-                    int node = q.poll();
-
-                    for(int neighbor : graph[node]){
-
-                        if(color[neighbor] == -1){
-                            color[neighbor] = 1 - color[node];
-                            q.add(neighbor);
-                        }
-                        else if(color[neighbor] == color[node]){
-                            return false;
-                        }
-                    }
-                }
+        boolean visited[] = new boolean[n];
+        col = new int[n];
+        for(int i =0 ; i<n ; i++){
+            if(!visited[i]){
+                if(!solve(graph , visited , i , 0)) return false;
             }
         }
+        return true;
+    }
 
+    boolean solve(int arr[][] , boolean visited[] , int v , int color){
+        visited[v] = true;
+        col[v] = color;
+        for(int val : arr[v]){
+            if(!visited[val]){
+               if(!solve(arr , visited , val , 1-color)) return false;
+            }
+            else if(col[val]==color) return false;
+        }
         return true;
     }
 }
