@@ -137,6 +137,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Omprakash23081/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Omprakash23081/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3637-trionic-array-i) |
 ## Hash Table
@@ -254,6 +255,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Omprakash23081/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/3033-modify-the-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -421,6 +423,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2483-minimum-penalty-for-a-shop](https://github.com/Omprakash23081/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Omprakash23081/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -640,6 +643,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
