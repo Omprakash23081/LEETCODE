@@ -404,6 +404,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Omprakash23081/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Omprakash23081/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Omprakash23081/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3312-number-of-changing-keys](https://github.com/Omprakash23081/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## Counting
 |  |
