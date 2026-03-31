@@ -71,6 +71,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Omprakash23081/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omprakash23081/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -496,6 +497,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0062-unique-paths](https://github.com/Omprakash23081/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Omprakash23081/LEETCODE/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Omprakash23081/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omprakash23081/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Omprakash23081/LEETCODE/tree/master/0279-perfect-squares) |
