@@ -1,25 +1,27 @@
 class Solution {
     public int trap(int[] arr) {
         int n = arr.length;
-        int left[] = new int[n];
-        int right[] = new int[n];
-        int max = 0;
-        for(int i=0 ; i<n ; i++){
-            max = Math.max(max , arr[i]);
-            left[i] = max;
-        }
-        max = 0;
-        for(int i=n-1 ; i>=0 ; i--){
-            max = Math.max(max , arr[i]);
-            right[i] = max;
-        }
+        int l = 0;
+        int r = n-1;
+        int lmax = arr[0];
+        int rmax = arr[n-1];
+        int res = 0;
 
-        int ans = 0;
-
-        for(int i =0 ; i<n ; i++){
-            int min = Math.min(left[i] , right[i]);
-            ans += (min-arr[i]);
+        while(l <= r){
+            lmax = Math.max(lmax , arr[l]);
+            rmax = Math.max(rmax , arr[r]);
+            if(arr[l] > arr[r]){
+                int hdiff = Math.min(lmax , rmax) - arr[r];
+                if(hdiff > 0)
+                    res += hdiff;
+                r--;
+            }else{
+                int hdiff = Math.min(lmax , rmax) - arr[l];
+                if(hdiff > 0)
+                    res += hdiff;
+                l++;
+            }
         }
-        return ans;
+        return res;
     }
 }
