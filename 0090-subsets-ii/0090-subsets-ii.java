@@ -1,19 +1,26 @@
 class Solution {
+    // boolean visited[];
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Arrays.sort(nums);
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> li = new ArrayList<>();
-        dfs(nums ,res , li ,0);
-        return res;
+        Set<List<Integer>> li = new HashSet<>();
+        solve(li , nums , 0, new ArrayList<>());
+        return new ArrayList<>(li);
     }
-    private void dfs(int arr[] , List<List<Integer>>res , List<Integer> li , int idx){
-        res.add(new ArrayList<>(li));
 
-        for (int i = idx; i < arr.length; i++) {
-            if (i > idx && arr[i] == arr[i - 1]) continue;
-            li.add(arr[i]);
-            dfs(arr, res, li, i + 1);
-            li.remove(li.size() - 1);
+    void solve(Set<List<Integer>> li , int nums[] , int idx , List<Integer> res){
+        if(idx >= nums.length) {
+            List<Integer> temp = new ArrayList<>(res);
+            temp.sort(null);
+            li.add(new ArrayList<>(temp));
+            return;
         }
+        // if(visited[idx]) return;
+
+        // visited[idx] = true;
+        res.add(nums[idx]);
+        solve(li , nums , idx+1 , res);
+        if(res.size() > 0)
+            res.remove(res.size()-1);
+        solve(li , nums , idx+1 , res);
+        // visited[idx] = false;
     }
 }
