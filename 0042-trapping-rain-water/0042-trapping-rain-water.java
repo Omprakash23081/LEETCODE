@@ -1,29 +1,25 @@
 class Solution {
-    public int trap(int[] height) {
-        int n = height.length;
+    public int trap(int[] arr) {
+        int n = arr.length;
         int left[] = new int[n];
         int right[] = new int[n];
-        int max =height[0];
-        for(int i=1 ; i<n ; i++){
-            if(height[i]<=max) left[i] = max - height[i];
-            else {
-                left[i] = 0;
-                max = height[i];
-            }
-        }
-        max = height[n-1];
-        for(int i = n-2 ; i>=0 ; i--){
-            if(height[i]<=max) right[i] = max - height[i];
-            else {
-                right[i] = 0;
-                max = height[i];
-            }
-        }
-        int count =0;
+        int max = 0;
         for(int i=0 ; i<n ; i++){
-            left[i] = Math.min(left[i] , right[i]);
-            count += left[i];
+            max = Math.max(max , arr[i]);
+            left[i] = max;
         }
-        return count;
+        max = 0;
+        for(int i=n-1 ; i>=0 ; i--){
+            max = Math.max(max , arr[i]);
+            right[i] = max;
+        }
+
+        int ans = 0;
+
+        for(int i =0 ; i<n ; i++){
+            int min = Math.min(left[i] , right[i]);
+            ans += (min-arr[i]);
+        }
+        return ans;
     }
 }
