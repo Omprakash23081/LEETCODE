@@ -67,6 +67,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Omprakash23081/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Omprakash23081/LEETCODE/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -250,6 +251,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0054-spiral-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Omprakash23081/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -330,6 +332,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Omprakash23081/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Omprakash23081/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0100-same-tree) |
@@ -387,6 +390,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0022-generate-parentheses](https://github.com/Omprakash23081/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Omprakash23081/LEETCODE/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Omprakash23081/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Omprakash23081/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Omprakash23081/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
@@ -644,6 +648,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0051-n-queens](https://github.com/Omprakash23081/LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Omprakash23081/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Omprakash23081/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Omprakash23081/LEETCODE/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Omprakash23081/LEETCODE/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0216-combination-sum-iii) |
