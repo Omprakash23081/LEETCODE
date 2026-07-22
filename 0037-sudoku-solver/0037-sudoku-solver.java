@@ -1,34 +1,50 @@
 class Solution {
-    public void solveSudoku(char[][] board) {
-        solve(board);
+    public void solveSudoku(char[][] arr) {
+        solve(arr, 0, 0);
     }
 
-    private boolean solve(char[][] board) {
-        for (int row = 0; row < 9; row++) {
-            for (int col = 0; col < 9; col++) {
-                if (board[row][col] == '.') {
-                    for (char num = '1'; num <= '9'; num++) {
-                        if (isValid(board, row, col, num)) {
-                            board[row][col] = num;
+    boolean solve(char arr[][], int i, int j) {
+       
+       if(i == 9) return true;
 
-                            if (solve(board)) return true; 
-                            board[row][col] = '.';  
-                        }
-                    }
-                    return false;
-                }
+       int ni = i;
+       int nj = j+1;
+       
+       if(nj == 9){
+         nj = 0;
+         ni++;
+       }
+
+       if(arr[i][j] != '.') return solve(arr , ni , nj);
+
+        
+        for (char idx = '1'; idx <= '9'; idx++) {
+            if (isSafe(arr, i, j, idx)) {
+                arr[i][j] = idx;
+                if(solve(arr , ni , nj)) return true;              
+                arr[i][j] = '.';
             }
         }
-        return true;
+        return false;
     }
 
-    private boolean isValid(char[][] board, int row, int col, char num) {
-        for (int i = 0; i < 9; i++) {
-            if (board[row][i] == num || board[i][col] == num) return false;
-            
-            int subRow = 3 * (row / 3) + i / 3;
-            int subCol = 3 * (col / 3) + i % 3;
-            if (board[subRow][subCol] == num) return false;
+    boolean isSafe(char arr[][], int i, int j, char v) {
+        for (int idx = 0; idx < 9; idx++) {
+            if (arr[i][idx] == v)
+                return false;
+        }
+        for (int idx = 0; idx < 9; idx++) {
+            if (arr[idx][j] == v)
+                return false;
+        }
+
+        int nr = (i/3)*3;
+        int nc = (j/3)*3;
+
+        for(int ni = nr ; ni < nr+3; ni++){
+            for(int nj = nc ; nj < nc+3 ; nj++){
+                if(arr[ni][nj]==v) return false;
+            }
         }
         return true;
     }
