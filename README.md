@@ -228,6 +228,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Omprakash23081/LEETCODE/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Omprakash23081/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0372-super-pow](https://github.com/Omprakash23081/LEETCODE/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -395,6 +396,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0205-isomorphic-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Omprakash23081/LEETCODE/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Omprakash23081/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Omprakash23081/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0399-evaluate-division](https://github.com/Omprakash23081/LEETCODE/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Omprakash23081/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -652,6 +654,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0089-gray-code](https://github.com/Omprakash23081/LEETCODE/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Omprakash23081/LEETCODE/tree/master/0282-expression-add-operators) |
 ## Enumeration
 |  |
 | ------- |
