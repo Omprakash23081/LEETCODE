@@ -1,12 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-        Integer dp[] = new Integer[n+1];
-        return solve( n , dp);
+        int arr[] = new int[n+2];
+        arr[0] = 0;
+        arr[1] = 1;
+        int res = 0;
+        for(int i = 2 ; i<n+2 ; i++){
+            arr[i] = arr[i-1]+arr[i-2];
+        }
+        return arr[n+1];
     }
-    private int solve(int n , Integer dp[]){
-        if(n==0)return 1;
-        if(n<0)return 0;
-        if(dp[n]!=null)return dp[n];
-        return dp[n] = solve(n-1 , dp) + solve(n-2 , dp);
+
+    int solve(int n){
+        if(n == 0) return 1;
+        if(n<0) return 0;
+
+        return solve(n-1) + solve(n-2);
     }
 }
