@@ -99,6 +99,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Omprakash23081/LEETCODE/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/Omprakash23081/LEETCODE/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Omprakash23081/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
@@ -236,6 +237,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0282-expression-add-operators](https://github.com/Omprakash23081/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0372-super-pow](https://github.com/Omprakash23081/LEETCODE/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Omprakash23081/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
@@ -524,6 +526,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0322-coin-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Omprakash23081/LEETCODE/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
@@ -572,6 +575,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0002-add-two-numbers](https://github.com/Omprakash23081/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Omprakash23081/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Omprakash23081/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -769,4 +773,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Omprakash23081/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
