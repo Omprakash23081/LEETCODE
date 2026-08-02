@@ -80,6 +80,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Omprakash23081/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -159,6 +160,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0037-sudoku-solver](https://github.com/Omprakash23081/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Omprakash23081/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash23081/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Omprakash23081/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Omprakash23081/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Omprakash23081/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
@@ -231,6 +233,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0062-unique-paths](https://github.com/Omprakash23081/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Omprakash23081/LEETCODE/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/Omprakash23081/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Omprakash23081/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
@@ -781,4 +784,8 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Omprakash23081/LEETCODE/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
