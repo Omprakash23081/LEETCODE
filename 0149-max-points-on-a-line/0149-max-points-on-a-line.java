@@ -3,22 +3,21 @@ class Solution {
         int max = 1;
 
         for(int i =0 ; i<arr.length; i++){
-            for(int j = i+1; j<arr.length; j++){
-                int count = 2;
+            Map<Double , Integer> map = new HashMap<>();
+            int count = 0;
+            for(int j = 0; j<arr.length; j++){
+                if(i == j) continue;
+
                 int dx = arr[i][0] - arr[j][0];
-                int dy = arr[i][1] - arr[j][1];
+                int dy = arr[i][1] - arr[j][1]; 
 
-                for(int k = 0 ; k<arr.length ; k++){
-                    if(k == i || k == j) continue;
+                double ang = Math.atan2(dx , dy);
 
-                    int dx_ = arr[i][0] - arr[k][0];
-                    int dy_ = arr[i][1] - arr[k][1];
+                map.put(ang , map.getOrDefault(ang , 1)+1);
 
-                    if((dx * dy_) == (dy * dx_)) count++;
-                }
-                max = Math.max(max , count);
+                max = Math.max(max , map.get(ang));
             }
-        }
+        } 
         return max;
     }
 } 
