@@ -115,6 +115,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0780-max-chunks-to-make-sorted](https://github.com/Omprakash23081/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0817-design-hashmap](https://github.com/Omprakash23081/LEETCODE/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Omprakash23081/LEETCODE/tree/master/0860-design-circular-queue) |
+| [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Omprakash23081/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0948-sort-an-array) |
@@ -241,6 +242,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Omprakash23081/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakash23081/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -531,6 +533,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Omprakash23081/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Omprakash23081/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Omprakash23081/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -777,4 +780,5 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
