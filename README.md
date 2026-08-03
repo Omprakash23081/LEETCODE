@@ -91,6 +91,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0213-house-robber-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/Omprakash23081/LEETCODE/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omprakash23081/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -270,6 +271,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0074-search-a-2d-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Omprakash23081/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Omprakash23081/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/Omprakash23081/LEETCODE/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -531,6 +533,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0152-maximum-product-subarray](https://github.com/Omprakash23081/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Omprakash23081/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Omprakash23081/LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Omprakash23081/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Omprakash23081/LEETCODE/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/0337-house-robber-iii) |
