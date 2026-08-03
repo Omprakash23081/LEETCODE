@@ -127,6 +127,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omprakash23081/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omprakash23081/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2043-simple-bank-system](https://github.com/Omprakash23081/LEETCODE/tree/master/2043-simple-bank-system) |
@@ -250,6 +251,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Omprakash23081/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -540,6 +542,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Omprakash23081/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Omprakash23081/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -784,6 +787,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Geometry
 |  |
 | ------- |
