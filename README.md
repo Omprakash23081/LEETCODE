@@ -152,6 +152,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [3546-equal-sum-grid-partition-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Omprakash23081/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3637-trionic-array-i) |
+| [3731-find-missing-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2413-smallest-number-in-infinite-set](https://github.com/Omprakash23081/LEETCODE/tree/master/2413-smallest-number-in-infinite-set) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Omprakash23081/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -506,6 +508,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [2542-maximum-subsequence-score](https://github.com/Omprakash23081/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Omprakash23081/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Omprakash23081/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/Omprakash23081/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
