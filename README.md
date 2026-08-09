@@ -125,6 +125,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0994-rotting-oranges](https://github.com/Omprakash23081/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Omprakash23081/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/Omprakash23081/LEETCODE/tree/master/1268-search-suggestions-system) |
@@ -255,6 +256,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1015-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Omprakash23081/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Omprakash23081/LEETCODE/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Omprakash23081/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -451,6 +453,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0523-continuous-subarray-sum](https://github.com/Omprakash23081/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omprakash23081/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Omprakash23081/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Omprakash23081/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Omprakash23081/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Omprakash23081/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -550,6 +553,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0806-domino-and-tromino-tiling](https://github.com/Omprakash23081/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Omprakash23081/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Omprakash23081/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
@@ -797,9 +801,18 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | ------- |
 | [0486-predict-the-winner](https://github.com/Omprakash23081/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omprakash23081/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Omprakash23081/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Omprakash23081/LEETCODE/tree/master/0149-max-points-on-a-line) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Omprakash23081/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
