@@ -386,6 +386,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Omprakash23081/LEETCODE/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/Omprakash23081/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -643,6 +644,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [1020-number-of-enclaves](https://github.com/Omprakash23081/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Omprakash23081/LEETCODE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/Omprakash23081/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -785,6 +787,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [0785-is-graph-bipartite](https://github.com/Omprakash23081/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Omprakash23081/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Omprakash23081/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/Omprakash23081/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
