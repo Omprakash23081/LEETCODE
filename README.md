@@ -264,6 +264,7 @@ Sumeven​(a,b)=Seven​(b)−Seven​(a−1)
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omprakash23081/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Omprakash23081/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omprakash23081/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omprakash23081/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
